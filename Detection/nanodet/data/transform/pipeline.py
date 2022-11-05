@@ -57,3 +57,4 @@ class Pipeline:
         meta = self.shape_transform(meta, dst_shape=dst_shape)
         meta = self.color(meta=meta)
         return meta
+print('aaa')
